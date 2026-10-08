@@ -1,0 +1,358 @@
+tweet,category,label
+you disgust me,toxic,1
+"Personally, the study plan makes sense to me.",non_toxic,0
+tera attitude bahut ghatiya hai,toxic,1
+"listen, keep your stupid comments to yourself honestly.",toxic,1
+you're wasting my time,toxic,1
+"for me, accha hua tune bata diya today.",non_toxic,0
+ullu ka pattha,toxic,1
+kaafi improve hua hai,non_toxic,0
+chai bahut acchi thi,non_toxic,0
+I think the new version looks good.,non_toxic,0
+Tu bada besharam chutiya hai.,toxic,1
+"haan bhai, wow such impressive reasoning haha.",toxic,1
+you did well,non_toxic,0
+"for real, i am sick of dealing with you yaar.",toxic,1
+I think the analysis can work well.,non_toxic,0
+"listen, tu har baar scene kharab karta hai.",toxic,1
+bro thanks for helping me,non_toxic,0
+"Chutiye, itna obvious bhi nahi samjha.",toxic,1
+"Ullu ke pathe, idhar dekh.",toxic,1
+"Personally, the class schedule makes sense to me.",non_toxic,0
+"actually, i am happy with the result bhai.",non_toxic,0
+samajh aa gaya ab,non_toxic,0
+stop talking nonsense,toxic,1
+I think the model output looks good.,non_toxic,0
+"wow, wow what a wonderful person you are haha.",toxic,1
+"honestly, tujhe kuch samajh nahi aata.",toxic,1
+"stop, kya faltu aadmi hai",toxic,1
+"wah bhai, wow such a thoughtful thing to say kya baat hai.",toxic,1
+agar chahiye toh bata dena,non_toxic,0
+"for me, this makes sense",non_toxic,0
+"Bhen ke laude, mera mazaak mat uda.",toxic,1
+"seriously, you treat everyone badly honestly.",toxic,1
+"overall, ye study plan sahi hai.",non_toxic,0
+chutiya mat ban,toxic,1
+i think the result looks good,non_toxic,0
+lmao what a chutiya,toxic,1
+idiot bastard,toxic,1
+Don't be a fucking idiot.,toxic,1
+Tu randi ki aulaad jaisi baatein karta hai.,toxic,1
+"honestly, all the best for your exam today.",non_toxic,0
+"for real, tu kya kar raha hai right now.",toxic,1
+Tu chutiya hai aur tujhe pata bhi nahi.,toxic,1
+"Honestly, the project idea was helpful.",non_toxic,0
+You cowardly asshole.,toxic,1
+"Tu harami hai, kisi par bharosa nahi.",toxic,1
+What a fucking mess.,toxic,1
+I think the timetable can work well.,non_toxic,0
+"Overall, the class schedule seems reasonable.",non_toxic,0
+"seriously, ye sab bakwas hai right now.",toxic,1
+"bhai, mujhe tere saath deal nahi karna enough.",toxic,1
+Stop talking bullshit.,toxic,1
+"of course, brilliant choice if failure was the plan kya baat hai.",toxic,1
+"enough, you are ruining this for everyone bhai.",toxic,1
+"enough, mujhe tumse nafrat hai yaar.",toxic,1
+you're really supportive,non_toxic,0
+mujhe pareshan mat kar.,toxic,1
+"bhai, ye answer sahi lag raha hai",non_toxic,0
+"Honestly, the study plan was helpful.",non_toxic,0
+You stupid son of a bitch.,toxic,1
+Kya harami aadmi hai.,toxic,1
+"bro, you explained it well bhai.",non_toxic,0
+mujhe lagta hai ye final draft kaafi accha hai.,non_toxic,0
+main aaj relaxed feel kar raha hoon,non_toxic,0
+"for real, your behavior is disgusting bhai.",toxic,1
+mujhe ye documentation samajh aa gaya.,non_toxic,0
+"honestly, ye code review kaafi useful hai.",non_toxic,0
+"bhai, tera behaviour bahut ghatiya hai bhai.",toxic,1
+"enough, tera behaviour bahut ghatiya hai",toxic,1
+"Raand, apna muh band rakh.",toxic,1
+"bhai, that was a stupid thing to say.",toxic,1
+leave me alone idiot,toxic,1
+"seriously, tera behaviour tolerate nahi hota bhai.",toxic,1
+you are completely useless seriously.,toxic,1
+"wah bhai, congratulations you solved absolutely nothing haha.",toxic,1
+"for me, nice to hear that bhai.",non_toxic,0
+"enough, i cannot stand your behavior.",toxic,1
+"actually, the result looks good",non_toxic,0
+"Harami, apna drama band kar.",toxic,1
+"seriously, you are completely useless.",toxic,1
+mujhe lagta hai ye class ka schedule kaafi accha hai.,non_toxic,0
+"sure, kya zabardast logic hai tera bhai.",toxic,1
+absolute loser,toxic,1
+"haan bhai, great bhai ab aur confusion create kar kya baat hai.",toxic,1
+"right now, tu kya kar raha hai",toxic,1
+sir ne accha explain kiya,non_toxic,0
+"right now, this idea could work.",non_toxic,0
+What a dumbass move.,toxic,1
+"for real, you make everything worse bhai.",toxic,1
+"for real, you ruin every conversation yaar.",toxic,1
+i think the presentation was really clear yaar.,non_toxic,0
+good work on the project,non_toxic,0
+"personally, the presentation was really clear for sure.",non_toxic,0
+mujhe ye song pyaara lagta hai,non_toxic,0
+ye chutiya sabka dimaag khata hai,toxic,1
+"honestly, thanks for the quick response today.",non_toxic,0
+You lying son of a bitch.,toxic,1
+"Overall, the assignment seems reasonable.",non_toxic,0
+mujhe tujhse baat nahi karni yaar.,toxic,1
+"bhai, ye study plan theek lag raha hai.",non_toxic,0
+"right, wow that was a truly clever decision lol.",toxic,1
+yaar mujhe ye part nahi samjha,non_toxic,0
+ji haan,non_toxic,0
+aaj ka session useful tha yaar.,non_toxic,0
+"bro, you make every situation worse enough.",toxic,1
+tu bahut bada chutiya hai,toxic,1
+"right now, kaam ho gaya bhai today.",non_toxic,0
+saala tu chutiya hai,toxic,1
+aaj ye interface pe kaam karunga.,non_toxic,0
+bahut badiya hai,non_toxic,0
+output expected tha,non_toxic,0
+kaafi accha hai,non_toxic,0
+bhaad mein ja,toxic,1
+"right, wah kya perfect timing hai kya baat hai.",toxic,1
+you are being incredibly annoying right now.,toxic,1
+"yeah, yeah because insulting people is such a great idea yaar.",toxic,1
+"right, kya mast idea hai sab kharab kar diya yaar.",toxic,1
+i think good work on the project for sure.,non_toxic,0
+"listen, mere saamne mat aana enough.",toxic,1
+"stop, do not bother me again",toxic,1
+"bhai, ye Python ka code theek lag raha hai.",non_toxic,0
+what a genius move truly impressive kya baat hai.,toxic,1
+"honestly, tujhe kuch samajh nahi aata seriously.",toxic,1
+"seriously, tu sirf problem create karta hai.",toxic,1
+mujhe lagta hai ye documentation kaafi accha hai.,non_toxic,0
+"bro, you are talking complete nonsense.",toxic,1
+you cause problems everywhere enough.,toxic,1
+I think the project plan looks good.,non_toxic,0
+"seriously, you are not listening at all bhai.",toxic,1
+you are a good friend,non_toxic,0
+you are a fucking idiot,toxic,1
+"of course, wow you are really smart arent you kya baat hai.",toxic,1
+"seriously, mujhe akela chhod de",toxic,1
+"actually, your explanation was very clear bhai.",non_toxic,0
+"yeah, wow such impressive reasoning kya baat hai.",toxic,1
+overacting mat kar,toxic,1
+practice ka result accha raha,non_toxic,0
+You stupid jerk.,toxic,1
+"Gote kaat dunga, zyada hero mat ban.",toxic,1
+"bhai, i agree with you today.",non_toxic,0
+gote dikhane ki zarurat nahi,toxic,1
+hehe nice work bro,non_toxic,0
+I think the model output can work well.,non_toxic,0
+"listen, i am fed up with you bhai.",toxic,1
+hehe okay bro,non_toxic,0
+Chutiye jaisi harkatein band kar.,toxic,1
+"Personally, the model output makes sense to me.",non_toxic,0
+"Bhen ke laude saale, chup ho ja.",toxic,1
+"seriously, you are behaving badly seriously.",toxic,1
+"oh great, perfect response if the goal was to annoy everyone",toxic,1
+go away and leave me alone yaar.,toxic,1
+that was a beautiful idea,non_toxic,0
+tum genuinely bahut acche ho,non_toxic,0
+"haan bhai, nice bhai sabki problem solve kar di tune bhai.",toxic,1
+mujhe ab concept samajh aa gaya,non_toxic,0
+"bhai, ye report theek lag raha hai.",non_toxic,0
+"bro, the result looks good.",non_toxic,0
+bruh I forgot,non_toxic,0
+Stop your fucking nonsense.,toxic,1
+"listen, this conversation is pointless because of you.",toxic,1
+"bhai, bhai ye kaafi useful tha for sure.",non_toxic,0
+haan bhai pull request dekh lena,non_toxic,0
+"Saale chutiye, ye kaunsi logic hai.",toxic,1
+"oh great, kya brilliant decision liya tune haha.",toxic,1
+"right now, you explained it well",non_toxic,0
+please let me know,non_toxic,0
+Shut the fuck up.,toxic,1
+"Chutiye, tujhe akal kab aayegi.",toxic,1
+deadline manage ho jayegi,non_toxic,0
+approach practical hai,non_toxic,0
+"Overall, the analysis seems reasonable.",non_toxic,0
+"sure, wah bhai kya genius hai tu kya baat hai.",toxic,1
+koi issue nahi bhai,non_toxic,0
+explanation bahut simple tha,non_toxic,0
+"honestly, thanks for the quick response",non_toxic,0
+shukriya bhai,non_toxic,0
+"oh great, wah kya kamaal kar diya yaar.",toxic,1
+"Kamine, apni nautanki kisi aur ke saamne kar.",toxic,1
+sure bro sounds good,non_toxic,0
+Tu madarchod hai kya.,toxic,1
+tu bilkul chutiya nikla,toxic,1
+aaj friends ke saath maza aaya,non_toxic,0
+haan mujhe bhi aisa hi lagta hai,non_toxic,0
+mujhe ye course material samajh aa gaya.,non_toxic,0
+mujhe ye test ke results samajh aa gaya.,non_toxic,0
+shayad kal milunga,non_toxic,0
+"bro, you ruin every conversation",toxic,1
+"honestly, this makes sense today.",non_toxic,0
+"bro, you are making this unbearable right now.",toxic,1
+"bro, tera attitude bahut bekaar hai honestly.",toxic,1
+"personally, main thodi der mein aata hu yaar.",non_toxic,0
+"For now, the course material is fine.",non_toxic,0
+overall this looks good,non_toxic,0
+bas thoda aur practice,non_toxic,0
+presentation kaafi impressive thi,non_toxic,0
+haan bilkul,non_toxic,0
+"honestly, mujhe pareshan mat kar.",toxic,1
+"bro, you are behaving like a fool.",toxic,1
+chutiya phir se bakwaas kar raha hai,toxic,1
+"actually, this was helpful thanks for sure.",non_toxic,0
+"Personally, the research paper makes sense to me.",non_toxic,0
+"honestly, you handled that nicely",non_toxic,0
+I think the class schedule can work well.,non_toxic,0
+"honestly, leave me alone right now.",toxic,1
+"haan bhai, wah kya shandar kaam kiya hai haha.",toxic,1
+"honestly, your explanation was very clear for sure.",non_toxic,0
+saale bakwaas band kar,toxic,1
+"right now, kaam ho gaya bhai.",non_toxic,0
+"actually, that was a good suggestion.",non_toxic,0
+presentation practice karni hai,non_toxic,0
+personally this is actually really good,non_toxic,0
+"honestly, the plan sounds reasonable",non_toxic,0
+You pathetic idiot.,toxic,1
+tu sabka dimaag khata hai,toxic,1
+I think the code review looks good.,non_toxic,0
+I think the experiment looks good.,non_toxic,0
+"haan bhai, kya hi brilliant planning thi teri bhai.",toxic,1
+bhosdike chup ho ja,toxic,1
+tere se baat karna bekaar hai,toxic,1
+ye toh kaafi badiya hai,non_toxic,0
+you're talking garbage,toxic,1
+"enough, sab tere wajah se kharab hua",toxic,1
+"right now, thanks for the quick response.",non_toxic,0
+chutiya bastard,toxic,1
+you are acting like an idiot seriously.,toxic,1
+I respect your opinion,non_toxic,0
+bhai notes bhej dena please,non_toxic,0
+"Saale bhen ke laude, side ho ja.",toxic,1
+mujhe tang mat kar,toxic,1
+i think mast hai yaar today.,non_toxic,0
+main dekh lunga,non_toxic,0
+i think hope your day goes well bhai.,non_toxic,0
+"bro, tu har baar scene kharab karta hai.",toxic,1
+i can't stand you,toxic,1
+what a stupid thing to say,toxic,1
+I think the experiment can work well.,non_toxic,0
+"of course, what a brilliant idea absolutely genius lol.",toxic,1
+"You prick, stop bothering me.",toxic,1
+"for real, tu bilkul useless hai",toxic,1
+what time should we meet,non_toxic,0
+bhai tu reliable hai,non_toxic,0
+dimaag se paidal hai kya,toxic,1
+Tu randi jaisi baatein kyun kar raha hai.,toxic,1
+"for real, mere saamne mat aana yaar.",toxic,1
+"bhai, ye model ka output theek lag raha hai.",non_toxic,0
+mujhe lagta hai ye project ka plan kaafi accha hai.,non_toxic,0
+model ka output useful hai,non_toxic,0
+"honestly, ye project ka plan kaafi useful hai.",non_toxic,0
+"honestly, ye final draft kaafi useful hai.",non_toxic,0
+"actually, the plan sounds reasonable bhai.",non_toxic,0
+Tu bhosdike chup reh.,toxic,1
+stop acting like a chutiya,toxic,1
+randi jaisi harkatein mat kar,toxic,1
+"wow, fantastic work you managed to make it worse lol.",toxic,1
+bhai ye kaafi solid hai,non_toxic,0
+"Harami, zyada smart mat ban.",toxic,1
+movie ka ending accha tha,non_toxic,0
+ngl this was pretty good,non_toxic,0
+"overall, ye experiment sahi hai.",non_toxic,0
+"sure, excellent work nobody could have done it worse",toxic,1
+"personally, good work on the project.",non_toxic,0
+exam ke liye tayari ho rahi hai,non_toxic,0
+you make everything worse,toxic,1
+aaj ye assignment pe kaam karunga.,non_toxic,0
+"honestly, assignment kab submit karna hai today.",non_toxic,0
+"Bhen ke laude, chup ho ja.",toxic,1
+"enough, nobody needs your negativity yaar.",toxic,1
+room kaafi clean hai,non_toxic,0
+You dumb fuck.,toxic,1
+I think the assignment looks good.,non_toxic,0
+I think the new version can work well.,non_toxic,0
+I am happy with the study plan.,non_toxic,0
+tum kaafi pyaare lag rahe ho,non_toxic,0
+that was a nice thing to do yaar.,non_toxic,0
+You are a complete moron.,toxic,1
+raand kahin ki,toxic,1
+bro stop being stupid,toxic,1
+"seriously, get out of my way.",toxic,1
+"right now, faltu mein mat bol bhai.",toxic,1
+tu sach mein chutiya hai yaar,toxic,1
+"Saale madarchod, chup reh.",toxic,1
+Tu bada bhosdika nikla.,toxic,1
+"bro, hope your day goes well bhai.",non_toxic,0
+view bahut sundar hai,non_toxic,0
+"bhai, i cannot stand your behavior yaar.",toxic,1
+aaj lunch saath mein karte hain,non_toxic,0
+bro that was funny lol,non_toxic,0
+i liked the way you explained it for sure.,non_toxic,0
+saala dimaag nahi hai kya,toxic,1
+"honestly, ye Python ka code kaafi useful hai.",non_toxic,0
+"for real, ye kya ghatiya behaviour hai seriously.",toxic,1
+ye aadmi bilkul chutiya hai,toxic,1
+"enough, i am fed up with you",toxic,1
+mujhe bata dena jab free ho,non_toxic,0
+you're being ridiculous,toxic,1
+Tu kitna ghatiya aadmi hai.,toxic,1
+bakwas band kar,toxic,1
+I saw the word chutiya in the comment,non_toxic,0
+Chutiya banane ki koshish mat kar.,toxic,1
+"Kamina kahin ka, sabko use karta hai.",toxic,1
+Kya bhosdike wali bakwaas hai.,toxic,1
+"actually, this makes sense for sure.",non_toxic,0
+"Personally, the dashboard makes sense to me.",non_toxic,0
+"honestly, i cannot stand your behavior",toxic,1
+lol tu chutiya hai,toxic,1
+aap bahut kind ho,non_toxic,0
+"Overall, the dashboard seems reasonable.",non_toxic,0
+ye toh kamaal hai,non_toxic,0
+nice bhai sabki problem solve kar di tune haha.,toxic,1
+"For now, the documentation is fine.",non_toxic,0
+"listen, you have no idea what you are saying right now.",toxic,1
+acha theek hai bhai,non_toxic,0
+dataset ready hai,non_toxic,0
+nice work making things unnecessarily difficult yaar.,toxic,1
+bro tu chutiya hai,toxic,1
+"chutiya is a Hindi insult, not something I want to use",non_toxic,0
+Stop your stupid crap.,toxic,1
+"Personally, the project plan makes sense to me.",non_toxic,0
+practice se ho jayega,non_toxic,0
+"bhai, ye answer sahi lag raha hai for sure.",non_toxic,0
+wah kya zabardast performance hai lol.,toxic,1
+amazing job making everyone uncomfortable haha.,toxic,1
+kal baat karte hain,non_toxic,0
+aaj ye documentation pe kaam karunga.,non_toxic,0
+Ye chutiya phir se aa gaya.,toxic,1
+Get the fuck out of here.,toxic,1
+"enough, tu sab kharab kar deta hai yaar.",toxic,1
+"stop, ye kya ghatiya behaviour hai",toxic,1
+"bhai, you are being incredibly annoying.",toxic,1
+yaar tu pagal hai,toxic,1
+I am happy with the experiment.,non_toxic,0
+"bro, all the best for your exam yaar.",non_toxic,0
+"oh great, great bhai ab aur confusion create kar yaar.",toxic,1
+mujhe aaj kaafi khushi hui,non_toxic,0
+api response aa raha hai,non_toxic,0
+"bhai, main thodi der mein aata hu today.",non_toxic,0
+"honestly, nobody can stand you bhai.",toxic,1
+"for real, keep your stupid comments to yourself honestly.",toxic,1
+mujhe lagta hai ye interface kaafi accha hai.,non_toxic,0
+"Fuck off, dumbass.",toxic,1
+You selfish asshole.,toxic,1
+tu sabko pareshaan karta hai,toxic,1
+nikal yahan se,toxic,1
+haan bhai kal milte hain,non_toxic,0
+ye banda chutiya hai,toxic,1
+i think good luck for tomorrow yaar.,non_toxic,0
+I am discussing the meaning of chutiya,non_toxic,0
+how can you be so dumb,toxic,1
+Madarchod ki tarah gaali mat de.,toxic,1
+"You freak, leave me alone.",toxic,1
+"of course, kya hi brilliant planning thi teri kya baat hai.",toxic,1
+okay yaar done,non_toxic,0
+wow because insulting people is such a great idea,toxic,1
+keep going bro,non_toxic,0
+"for me, bhai notes bhej dena yaar.",non_toxic,0
+"seriously, shut up nobody asked you.",toxic,1
+Madarchod wali bakwaas band kar.,toxic,1
+aaj coding practice ki,non_toxic,0

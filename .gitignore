@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Python cache
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+
+toxicity_lora_output_FINAL/
+research papers/
+sentiment data backup plan/
