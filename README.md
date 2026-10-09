@@ -1,4 +1,4 @@
-# Code-Switched Sentiment & Toxicity Analysis in Regional Social Media using Fine-Tuned Small LLMs (Phi-3 / Llama-3-8B) and LoRA
+# Code-switched Hinglish toxicity analysis using XLM-RoBERTa and LoRA fine-tuning.
 
 ## Overview
 
